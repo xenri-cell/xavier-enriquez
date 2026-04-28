@@ -18,7 +18,11 @@ Other Strengths: Problem-solving, teamwork, clear documentation, customer‑focu
 
 Ciphers - deciphers or encrypts messages 
 
-Lyrics – Filters through a playlist of songs and offers a variety of modifications to the playlist, such as most repeated  artist and fixing grammar
+Lyrics-Search-Engine – Filters through a playlist of songs and offers a variety of modifications to the playlist, such as the most repeated  artist and fixing grammar
+
+Custom-HashMap - Fully custom template featuring separate chaining, dynamic resizing, deep copying, and manual memory management. 
+
+Campus-Map-Routing - A C++ web server that loads UIC campus map data, builds a graph of walkable paths, and computes shortest routes between buildings using Dijkstra's algorithm. 
 
 More coming soon…
 
